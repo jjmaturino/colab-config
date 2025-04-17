@@ -13,7 +13,7 @@
 | `?function-name` | Show definition and docstring | Display quick help about functions |
 | `??function-name` | Show source code | Display the implementation of functions |
 | `Shift+Tab` (press once) | View function parameters | Show function signature |
-| `Shift+Tab` (press three times) | Get additional information | Show detailed function documentation |
+| `Shift+Tab` (press three times) | Get additional information | Show detailed function documentation | Opens up a new window
 
 ## Remapped Shortcuts (Using Ctrl+M prefix)
 
